@@ -1,0 +1,15 @@
+######################################################################
+#
+#    LOADEST control file
+#
+#
+#    line              name of the:
+#    ----              --------------
+#     1                header file
+#     2                calibration file
+#     3                estimation file
+#
+######################################################################
+header.inp
+calib.inp
+est.inp
